@@ -1,0 +1,13 @@
+{
+    "name": "ja-martins/pagseguro",
+    "description": "Description of project Payment-PagSeguro.",
+    "authors": [
+        {
+            "name": "Jorge Almir Martins",
+            "email": "jorgealmirmartins@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "*"
+    }
+}
