@@ -9,5 +9,13 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "*"
+    },
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
     }
 }
